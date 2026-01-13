@@ -1,1 +1,2 @@
-# applications
+# %%%%%Update story of Developer A %%%%%%%%
+
